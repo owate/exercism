@@ -1,0 +1,12 @@
+build/
+
+##IntelliJ##
+.idea
+
+##Exercism##
+.exercism
+
+##Gradle##
+.gradle
+build.gradle
+
